@@ -5,10 +5,11 @@
 
 Senior AI Developer with a passion for language technology, machine learning, and all things audio and speech. 
 
-**Currently:**
-* Leading the technical development for Göteborgsregionen (GR) and an innovation arena for AI.
-* Leading the technical development for "En gemensam Digital Assistent för svensk offentlig sektor" at AI Sweden.
-* Applying AI expertise to Speech, Audio, and Text analysis at the Swedish Security Service.
+**Currently or recently:**
+
+* Leading the technical development for "En gemensam Digital Assistent för svensk offentlig sektor" at AI Sweden. [[Link](https://www.ai.se/sv/projekt/en-gemensam-digital-assistent-offentlig-sektor)]
+* Applying AI expertise to Speech, Audio, and Text analysis at the Swedish Security Service, focusing on developing innovative solutions for national security.
+* Tech Lead at the innovation arena for AI at Göteborgsregionen (GR). [[Link](https://innovationsarena.goteborgsregionen.se/)]
 
 **Background:**
 
@@ -18,8 +19,8 @@ Senior AI Developer with a passion for language technology, machine learning, an
 
 **Skills:**
 
-* **Languages:** Python (Pandas, Torch, NumPy, Scikit-learn), SQL, C++, Scheme, Lisp
-* **Tools:**  Elastic (Kibana)
+* **Languages:** Python (Pandas, Torch, NumPy, Scikit-learn), SQL, C++, Scheme, Lisp, Prolog etc etc
+* **Tools:**  Elastic (Kibana), Praat etc etc
 * **Expertise:** Machine Learning, Natural Language Processing, Speech Recognition, Audio Analysis, Forensic Speaker Comparison
 
 **Connect with me:**
