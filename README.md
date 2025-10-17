@@ -7,6 +7,7 @@ Senior Lead AI Developer with a passion for language technology, machine learnin
 
 **Currently or recently:**
 
+* Working at Airon AI part time as a Senior AI Engineer. [[Link](https://www.airon.ai)]
 * Working in the NLU team at AI Sweden training European LLMs in OpenEuroLLM etc. [[Link](https://www.ai.se/en/project/openeurollm)]
 * Tech Lead at the innovation arena for AI at Göteborgsregionen (GR). [[Link](https://innovationsarena.goteborgsregionen.se/)]
 * Leading the technical development for "En gemensam Digital Assistent för svensk offentlig sektor" at AI Sweden. [[Link](https://www.ai.se/sv/projekt/en-gemensam-digital-assistent-offentlig-sektor)]
