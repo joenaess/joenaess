@@ -7,7 +7,7 @@ Senior Lead AI Developer with a passion for language technology, machine learnin
 
 **Currently or recently:**
 
-* Head of Research, NLU at AI Sweden [[Link]([NLU at AI Sweden](https://www.ai.se/sv/ai-labs/sprakteknologier-nlu)]
+* Head of Research, NLU at AI Sweden. [NLU at AI Sweden](https://www.ai.se/sv/ai-labs/sprakteknologier-nlu)]
 * Working at Airon AI part time as a Senior AI Engineer. [[Link](https://www.airon.ai)]
 * Working in the NLU team at AI Sweden training European LLMs in OpenEuroLLM etc. [[Link](https://www.ai.se/en/project/openeurollm)]
 * Tech Lead at the innovation arena for AI at Göteborgsregionen (GR). [[Link](https://innovationsarena.goteborgsregionen.se/)]
