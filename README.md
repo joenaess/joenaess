@@ -3,7 +3,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00ccbb?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jonas-Lindh)
 [![Sprakbanken](https://img.shields.io/badge/Sprakbanken-blue?style=flat-square)](https://spraakbanken.gu.se/om/personal/jonas)
 
-Senior Lead AI Developer with a passion for language technology, machine learning, and all things audio and speech. 
+Head of Research, NLU Team at AI Sweden, with a passion for language technology, machine learning, and all things audio and speech. 
 
 **Currently or recently:**
 
